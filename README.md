@@ -1,7 +1,6 @@
 [![Java](https://img.shields.io/badge/-Java-1E1E20?&logo=Java&logoColor=F9971A)](https://github.com/yj-oh?tab=repositories&q=&type=&language=java)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-1E1E20?&logo=JavaScript&logoColor=FDDC00)](https://github.com/yj-oh?tab=repositories&q=&type=&language=javascript)
 ![Spring Boot](https://img.shields.io/badge/-Spring-1E1E20?&logo=Spring&logoColor=6DB33F)
-![MySQL](https://img.shields.io/badge/-MySQL-1E1E20?&logo=MySQL&logoColor=4479A1)
 ![Oracle](https://img.shields.io/badge/-Oracle_DB-1E1E20?&logo=Oracle&logoColor=F80000)
 ![HTML5](https://img.shields.io/badge/-HTML5-1E1E20?&logo=HTML5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-1E1E20?&logo=CSS3&logoColor=1572B6)
