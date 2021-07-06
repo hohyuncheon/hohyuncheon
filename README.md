@@ -9,7 +9,7 @@
 ![Git](https://img.shields.io/badge/-Git-1E1E20?&logo=Git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-1E1E20?&logo=GitHub&logoColor=ffffff)
 ![Notion](https://img.shields.io/badge/-Notion-1E1E20?&logo=Notion&logoColor=ffffff)
-![Tomcat](https://img.shields.io/badge/-Tomcat-1E1E20?&logo=apachetomcat&logoColor=ffffff)
+![Apache Tomcat](https://img.shields.io/badge/-Apache Tomcat-1E1E20?&logo=apachetomcat&logoColor=ffffff)
 ###   Hi, there. I'm HoHyunCheon. 👋
       Welcome to my profile.
       I want to be a full-stack developer.
