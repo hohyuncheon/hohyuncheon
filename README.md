@@ -1,5 +1,5 @@
-[![Java](https://img.shields.io/badge/-Java-1E1E20?&logo=Java&logoColor=F9971A)]
-[![JavaScript](https://img.shields.io/badge/-JavaScript-1E1E20?&logo=JavaScript&logoColor=FDDC00)]
+![Java](https://img.shields.io/badge/-Java-1E1E20?&logo=Java&logoColor=F9971A)
+![JavaScript](https://img.shields.io/badge/-JavaScript-1E1E20?&logo=JavaScript&logoColor=FDDC00)
 ![Spring Boot](https://img.shields.io/badge/-Spring-1E1E20?&logo=Spring&logoColor=6DB33F)
 ![Oracle](https://img.shields.io/badge/-Oracle_DB-1E1E20?&logo=Oracle&logoColor=F80000)
 ![HTML5](https://img.shields.io/badge/-HTML5-1E1E20?&logo=HTML5&logoColor=E34F26)
