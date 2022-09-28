@@ -12,7 +12,6 @@
 ![Apache Tomcat](https://img.shields.io/badge/-Tomcat-1E1E20?&logo=apachetomcat&logoColor=ffffff)
 ###   Hi, there. I'm HoHyunCheon. 👋
       Welcome to my profile.
-      I want to be a full-stack developer.
 
 
 
