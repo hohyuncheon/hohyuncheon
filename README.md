@@ -10,10 +10,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-1E1E20?&logo=GitHub&logoColor=ffffff)
 ![Notion](https://img.shields.io/badge/-Notion-1E1E20?&logo=Notion&logoColor=ffffff)
 ![Apache Tomcat](https://img.shields.io/badge/-Tomcat-1E1E20?&logo=apachetomcat&logoColor=ffffff)
-###   Hi, there. I'm HoHyunCheon. 👋
-      Welcome to my profile.
-
-
 
 
 [![HadongLee's github stats](https://github-readme-stats.vercel.app/api?username=hohyuncheon&show_icons=true&theme=algolia)](https://github.com/metleeha/github-readme-stats)
